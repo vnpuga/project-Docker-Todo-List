@@ -1,6 +1,6 @@
-FROM node:14-alpine AS todofrontend
-WORKDIR /front-end
+FROM node:14-alpine
 EXPOSE 3000
+WORKDIR /
 ADD node_modules.tar.gz .
 COPY . .
 CMD [ "npm", "start" ]
