@@ -6,7 +6,7 @@ Este projeto foi desenvolvido por **Viviane Puga**, como parte do programa de es
 1. Criar uma conexão entre elas;
 1. Orquestrar seu funcionamento.
 
-### Requisitos obrigatórios do projeto
+### Requisitos obrigatórios do projeto - _by Trybe_
 ## Comandos docker
 1. Crie um container em modo interativo, sem rodá-lo, nomeando-o como `01container` e utilizando a imagem `alpine` na versão `3.12`
 2. Inicie o container `01container`
